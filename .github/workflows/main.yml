@@ -1,5 +1,5 @@
             - name: branch-deploy
-  uses: sandpedrosula/main
+  uses: sandpedrosula
   with:
     # The GitHub token used to create an authenticated client - Provided for you by default!
     github_token: # default is ${{ github.token }}
