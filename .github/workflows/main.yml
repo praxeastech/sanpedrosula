@@ -1,1 +1,54 @@
+# This workflow will build a .NET project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
+# using local runner and MSBUILD 2.7.1 installed locally on server
+name: .NET
 
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  testbuild:
+
+    runs-on: windows-2016
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v1
+ 
+  Deploy:
+    runs-on: self-hosted
+    needs: testbuild
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v1.1    
+
+    - name: echo msbuild path
+      run: |
+        echo "vswhere-path: ${{ steps.setup_msbuild_explicit.outputs.msbuildPath }}"
+        echo "PATH: ${{ steps.setup_msbuild_path.outputs.msbuildPath }}"
+        echo "ARM PATH: ${{ steps.setup_msbuild_path_arm.outputs.msbuildPath }}"
+        echo "ARM PATH: ${{ steps.setup_msbuild_path_x64.outputs.msbuildPath }}"
+        echo "Fallback: ${{ steps.setup_msbuild_fallback.outputs.msbuildPath }}"
+    - name: echo MSBuild
+      run: msbuild -version
+
+
+         
+    - name: Deploy sanpedrosula_WebSite
+      run: | 
+      
+        Remove-Item -Path C:/inetpub/wwwroot/sanpedrosula/* -Exclude *.config,robots.txt,_databases.asp -Recurse -Force -ErrorAction Ignore -verbose   
+        Copy-Item -Path ./sanpedrosula/* -Exclude *.config,robots.txt,_databases.asp -Destination C:/Websites/CATH_CU_GrowFCU  -recurse -Force -ErrorAction Ignore -Verbose
+        
+        
+
+# WITH EXCLUDES
+# Remove-Item -Path C:/websites/CATH_CU_GrowFCU/* -Exclude  *.config,robots.txt,_databases.asp -Recurse -Force -ErrorAction Ignore -verbose   
+# Copy-Item -Path ./GrowFinancialFCU_WebSite/* -Exclude *.config,robots.txt,_databases.asp -Destination C:/Websites/CATH_CU_GrowFCU  -recurse -Force -ErrorAction Ignore -Verbose
