@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="podcast.xslt"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+    
+<title>Misiones Apostólicas de San Pedro Sula</title>
+<description> On Demand Audio</description>
+<itunes:author>Bro. David Blanchard</itunes:author>
+<link> https://sanpedroapostolic.org/podcast.xml </link>
+<itunes:image href="http://doctrine.praxeas.com/images/fountain.gif" />
+<image>
+<url>https://sanpedroapostolic.org/assets/img/fountain.gif</url>
+</image>
+<pubDate> Sun, 9 Apr 2024 9:00:00 CST </pubDate>
+<language>en-us</language>
+<copyright>© 2024 All Rights Reserved</copyright>
+
+<item>
+    <title>Simon, the Tanner</title>
+    <description>Sunday AM Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Sun Nov 13 2022 10:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/11-13-22-sunpm-blanchard.mp3" length="36214" type="audio/mpeg" />
+</item> 
+
+<item>
+    <title>Psalms from the Cave</title>
+    <description>Sunday AM Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Sun Oct 9 2022 10:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/10-09-22-blanchard.mp3" length="36214" type="audio/mpeg" />
+</item> 
+
+<item>
+    <title>Servant Leadership Lesson 4</title>
+    <description>Servant Leadership Class</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Fri Apr 22 2022 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/05-06-22fripm-blanchard.mp3" length="36214" type="audio/mpeg" />
+</item> 
+
+<item>
+    <title>Servant Leadership Lesson 3</title>
+    <description>Servant Leadership Class</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Fri Apr 29 2022 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/04-29-22fripm-blanchard.mp3" length="36214" type="audio/mpeg" />
+</item>  
+
+<item>
+    <title>Servant Leadership Lesson 2</title>
+    <description>Servant Leadership Class</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Fri Apr 22 2022 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/04-22-22fripm-blanchard.mp3" length="36214" type="audio/mpeg" />
+</item>  
+
+<item>
+    <title>Servant Leadership Lesson 1</title>
+    <description>Servant Leadership Class</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Fri Apr 01 2022 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/04-01-22fripm-blanchard.mp3" length="36214" type="audio/mpeg" />
+</item>  
+
+<item>
+    <title>The Fire of Truth / Oil in the Lamp</title>
+    <description>Sunday Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Wed July 21 2021 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/07-21-21wedpm.mp3" length="36214" type="audio/mpeg" />
+</item>  
+
+<item>
+    <title>The Right Foundation of Submission</title>
+    <description>Sunday Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Sun, 30 Aug 2020 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/08-30-20sunam-blanchard.mp3" length="36214" type="audio/mpeg" />
+</item>    
+    
+<item>
+    <title>Crowley Apostolic Church-Biblically Born Again</title>
+    <description>Sunday Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Sun, 02 Aug 2020 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/Crowley-BroBlanchard-08022020.mp3" length="3357214" type="audio/mpeg" />
+</item>
+
+<item>
+    <title>Hermeneutics-Lesson3-BroBlanchard</title>
+    <description>Fri Night Class</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Fri, 20 Sep 2019 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/09-20-19-Hermeneutics-BroBlanchard.m4a" length="111223000" type="audio/mpeg" />
+</item>    
+    
+<item>
+    <title>Hermeneutics-Lesson3-BroBlanchard</title>
+    <description>Fri Night Class</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Fri, 13 Sep 2019 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/09-13-19-Hermeneutics-BroBlanchard.m4a" length="111223000" type="audio/mpeg" />
+</item>
+
+<item>
+    <title>Hermeneutics-Lesson2-BroBlanchard</title>
+    <description>Fri Night Class</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Fri, 23 Aug 2019 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/08-23-19-Hermeneutics-BroBlanchard.m4a" length="111223000" type="audio/mpeg" />
+</item>
+
+<item>
+    <title>Hermeneutics-Lesson1-BroBlanchard</title>
+    <description>Fri Night Class</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Fri, 16 Aug 2019 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/08-16-19-Hermeneutics-BroBlanchard.m4a" length="111223000" type="audio/mpeg" />
+</item>
+
+
+<item>
+    <title>On the right side of history - Bro Blanchard</title>
+    <description>Sun Night Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Sun, 20 May 2018 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/05-20-18-sunpm-blanchard.mp3" length="111223000" type="audio/mpeg" />
+</item>
+    
+    
+<item>
+    <title>The Distinction of Male and Female- Bro Blanchard</title>
+    <description>Sun Night Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Sun, 17 Sep 2017 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/09-17-17sunpm-blanchard.mp3" length="111223000" type="audio/mpeg" />
+</item>
+
+
+<item>
+    <title>The Testimony of Jesus- Bro Blanchard</title>
+    <description>Wed Night Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Wed, 20 July 2017 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/07-19-17wedpm-blanchard.mp3" length="111223000" type="audio/mpeg" />
+</item>
+
+<item>
+    <title>Obtaining And Maintaining Spiritual Revelation - Bro Blanchard</title>
+    <description>Sunday Afternoon Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Sun, 13 Nov 2016 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/11-13-16sunpm-blanchard.mp3" length="132943937" type="audio/mpeg" />
+</item>
+
+<item>
+    <title>Equality In Unity - Bro Blanchard</title>
+    <description>Wednesday Night Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Wed, 21 Sep 2016 12:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/09-21-16wedpm-blanchard.mp3" length="53415408" type="audio/mpeg" />
+</item>
+
+<item>
+    <title>Spiritual Suicide-Bro. Blanchard 11/16/2014 PM</title>
+    <description>Bro. Blanchard</description>
+    <itunes:author>Bro. Blanchard</itunes:author>
+    <pubDate> Sunday, 16 Nov 2014 09:00:00 CST </pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/SpiritualSuicide-BroBlanchard20141116.mp3" length="187771402" type="audio/mpeg" />
+</item>
+
+<item>
+    <title>The Doctrine Of Salvation - Bro Blanchard</title>
+    <description>Sunday Morning Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Sun, 05 May 2013 18:00:00 CST </pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/05-05-13sunam-blanchard.mp3" length="93683685" type="audio/mpeg" />
+</item>
+
+<item>
+    <title>Zerubabbel - The two witnesses</title>
+    <description>Sunday AM Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Sun, 06 Dec 2015 10:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/12-06-2015-Zerubabbel-Bro-Blanchard.mp3" length="173289482" type="audio/mpeg" />
+</item>
+
+<item>
+    <title>Oneness Doctrine</title>
+    <description>Saturday AM Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Sat, 05 Dec 2015 10:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/12-05-2015-Oneness-BroBlanchard.mp3" length="69361000" type="audio/mpeg" />
+</item>
+
+<item>
+    <title>Grace and Law - Romans - Bro. Blanchard</title>
+    <description>Sunday Morning Service</description>
+    <itunes:author>Bro Blanchard</itunes:author>
+    <pubDate>Sun, 11 Oct 2015 22:00:01 CST</pubDate>
+    <enclosure url="http://doctrine.praxeas.com/audio/LawAndGrace10-11-2015.mp3" length="68966415" type="audio/mpeg" />
+</item>
+
+<item>
+	<title>The Ministry of Reconciliation Part 2</title>
+	<description>Bro. Blanchard</description>
+	<itunes:author>Bro. Blanchard</itunes:author>
+	<pubDate> Saturday 13 June 2015 19:00:00 CST </pubDate>
+	<enclosure url="http://doctrine.praxeas.com/audio/06-13-2015 sat am bro blanchard.mp3" length="63272000" type="audio/mpeg" />
+</item>
+
+<item>
+	<title>The Ministry of Reconciliation Part 1</title>
+	<description>Bro. Blanchard</description>
+	<itunes:author>Bro. Blanchard</itunes:author>
+	<pubDate> Sunday, 12 April 2015 19:00:00 CST </pubDate>
+	<enclosure url="http://doctrine.praxeas.com/audio/05-02-15 sat am blanchard.mp3" length="63272000" type="audio/mpeg" />
+</item>
+
+<item>
+	<title>EndTime Lesson 3</title>
+	<description>Elder David Blanchard</description>
+	<itunes:author>Bro. Blanchard</itunes:author>
+	<pubDate> Sunday, 12 April 2015 19:00:00 CST </pubDate>
+	<enclosure url="http://doctrine.praxeas.com/audio/04-12-15 sun pm blanchard.mp3" length="235564106" type="audio/mpeg" />
+</item>
+
+<item>
+	<title>EndTime Lesson 2</title>
+	<description>Elder David Blanchard</description>
+	<itunes:author>Bro. Blanchard</itunes:author>
+	<pubDate> Sunday, 15 March 2015 12:00:00 CST </pubDate>
+	<enclosure url="http://doctrine.praxeas.com/audio/03-15-15 sun pm blanchard.mp3" length="88697000" type="audio/mpeg" />
+</item>
+
+<item>
+	<title>EndTime Lesson 1</title>
+	<description>Elder David Blanchard</description>
+	<itunes:author>Bro. Blanchard</itunes:author>
+	<pubDate> Sunday, 8 March 2015 12:00:00 CST </pubDate>
+	<enclosure url="http://doctrine.praxeas.com/audio/03-08-15 sun pm blanchard.mp3" length="62457000" type="audio/mpeg" />
+</item>
+
+<!--
+<item>
+<title>ICAT Church Growth Seminar 10/28/2015</title>
+<description>Elder David Blanchard and Elder Ken Ellis</description>
+<itunes:author>Bro. Ellis and Bro. Blanchard</itunes:author>
+<pubDate> Satruday, 28 October 2014 12:00:00 CST </pubDate>
+<enclosure url="http://doctrine.praxeas.com/audio/ICAT-10-28-2015-Seminar-Church-Growth-Maintanence.mp3" length="67748000" type="audio/mpeg" />
+</item>
+-->
+
+<item>
+	<title>Effective Soul Winning Lesson 4</title>
+	<description>Effective Soul Winning Workshop</description>
+	<itunes:author>Bro. Blanchard</itunes:author>
+	<pubDate> Saturday, 02 September 2012 12:00:00 CST </pubDate>
+	<enclosure url="http://doctrine.praxeas.com/audio/09-01-2012 sat am SoulWinningLesson4.mp3" length="79350000" type="audio/mpeg" />
+</item>
+
+<item>
+	<title>Effective Soul Winning Lesson 3</title>
+	<description>Effective Soul Winning Workshop</description>
+	<itunes:author>Bro. Blanchard</itunes:author>
+	<pubDate> Saturday, 21 July 2012 12:00:00 CST </pubDate>
+	<enclosure url="http://doctrine.praxeas.com/audio/07-21-2012 sat am SoulWinningLesson3.mp3" length="70078000" type="audio/mpeg" />
+</item>
+
+<item>
+	<title>Effective Soul Winning Lesson 2</title>
+	<description>Effective Soul Winning Workshop</description>
+	<itunes:author>Bro. Blanchard</itunes:author>
+	<pubDate> Sunday, 14 July 2012 12:00:00 CST </pubDate>
+	<enclosure url="http://doctrine.praxeas.com/audio/07-14-2012 sat am SoulWinningLesson2.mp3" length="69077000" type="audio/mpeg" />
+</item>
+
+<item>
+	<title>Effective Soul Winning Lesson 1</title>
+	<description>Effective Soul Winning Workshop</description>
+	<itunes:author>Bro. Blanchard</itunes:author>
+	<pubDate> Sunday, 07 July 2012 12:00:00 CST </pubDate>
+	<enclosure url="http://doctrine.praxeas.com/audio/07-07-2012 sat am SoulWinningLesson1.mp3" length="69077000" type="audio/mpeg" />
+</item>
+
+</channel>
+</rss>
