@@ -5,8 +5,8 @@
 <channel>
     
 <title>Misiones Apostólicas de San Pedro Sula</title>
-<description>On Demand Audio</description>
-<itunes:author>Bro. David Blanchard</itunes:author>
+<description>Podcast del Ministerio Apostólico en San Pedro Sula</description>
+<itunes:author>Pastor D. Blanchard</itunes:author>
 <link> https://sanpedroapostolic.org</link>
 <itunes:image href="https://sanpedroapostolic.org/assets/img/logo.jpg" />
 <image>
@@ -15,14 +15,47 @@
 <pubDate> Sun, 9 Apr 2024 9:00:00 CST </pubDate>
 <language>en-us</language>
 <copyright>© 2024 All Rights Reserved</copyright>
-
 <item>
     <title>Qué es la Verdad? - abril 2024</title>
-    <description>Sunday AM Service</description>
-    <itunes:author>Bro Blanchard</itunes:author>
+    <description>Iglesia Apostólica San Pedro</description>
+    <itunes:author>Pastor Blanchard</itunes:author>
     <pubDate>Sun Apr 07 2024 10:00:01 CST</pubDate>
     <enclosure url="https://sanpedroapostolic.org/assets/audio/20240407_broblanchard.mp3" length="36214" type="audio/mpeg" />
 </item> 
-
+<item>
+    <title>Hombres en la verdad</title>
+    <description>Reunión de hombres (Obispo Schreckhise)</description>
+    <itunes:author>Pastor Greg Wilkins</itunes:author>
+    <pubDate>Sun Apr 14 2024 17:00:01 CST</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/20240414_browilkins.mp4" length="36214" type="audio/mpeg" />
+</item> 
+<item>
+    <title>Hombres enviados</title>
+    <description>Reunión de hombres (Obispo Schreckhise)</description>
+    <itunes:author>Pastor Greg Wilkins</itunes:author>
+    <pubDate>Sat Apr 13 2024 17:00:01 CST</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/20240413_browilkins.mp4" length="36214" type="audio/mpeg" />
+</item> 
+<item>
+    <title>Hombre fuerte</title>
+    <description>Reunión de hombres (Obispo Schreckhise)</description>
+    <itunes:author>Pastor Anthony Mann</itunes:author>
+    <pubDate>Sat Apr 13 2024 10:00:01 CST</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/20240413_bromann.mp4" length="36214" type="audio/mpeg" />
+</item> 
+<item>
+    <title>Ciertos hombres</title>
+    <description>Reunión de hombres (Obispo Schreckhise)</description>
+    <itunes:author>Pastor Greg Wilkins</itunes:author>
+    <pubDate>Fri Apr 12 2024 17:00:01 CST</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/20240412_browilkins.mp4" length="36214" type="audio/mpeg" />
+</item> 
+<item>
+    <title>Qué es la Verdad? - abril 2024</title>
+    <description>Iglesia Apostólica San Pedro</description>
+    <itunes:author>Pastor Blanchard</itunes:author>
+    <pubDate>Sun Apr 07 2024 10:00:01 CST</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/20240407_broblanchard.mp3" length="36214" type="audio/mpeg" />
+</item>
 </channel>
 </rss>
