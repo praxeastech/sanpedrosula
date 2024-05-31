@@ -16,11 +16,25 @@
 <language>en-us</language>
 <copyright>© 2024 All Rights Reserved</copyright>
 <item>
-    <title>Abraham "Fe y paciencia" - Bro Daniel Chevez</title>
+    <title>2 Thessalonians - Pastor Blanchard</title>
+    <description>Iglesia Apostólica San Pedro</description>
+    <itunes:author>Pastor D. Blanchard</itunes:author>
+    <pubDate>Thurs May 30 2024</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/20240530_broblanchard.mp3" length="36214" type="audio/mpeg" />
+</item> 
+<item>
+    <title>Abraham Fe "Deizmos" - Pastor Blanchard</title>
+    <description>Iglesia Apostólica San Pedro</description>
+    <itunes:author>Pastor D. Blanchard</itunes:author>
+    <pubDate>Sunday May 26 2024</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/20240526_broblanchard.m4a" length="36214" type="audio/mpeg" />
+</item> 
+<item>
+    <title>Abraham Fe "Circumcision" - Bro Daniel Chevez</title>
     <description>Iglesia Apostólica San Pedro</description>
     <itunes:author>Bro Daniel Chevez</itunes:author>
-    <pubDate>Sunday May 20 2024</pubDate>
-    <enclosure url="https://sanpedroapostolic.org/assets/audio/20240520_brodanielchevez.m4a" length="36214" type="audio/mpeg" />
+    <pubDate>Sunday May 19 2024</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/20240519_brodanielchevez.m4a" length="36214" type="audio/mpeg" />
 </item> 
 <item>
     <title>Abraham "Fe y paciencia" - Pastor Blanchard</title>
@@ -30,7 +44,7 @@
     <enclosure url="https://sanpedroapostolic.org/assets/audio/20240516_broblanchard.mp3" length="36214" type="audio/mpeg" />
 </item> 
 <item>
-    <title>Abraham Le Amigo de Dios - Pastor Blanchard</title>
+    <title>Abraham "Le Amigo de Dios" - Pastor Blanchard</title>
     <description>Iglesia Apostólica San Pedro</description>
     <itunes:author>Pastor D. Blanchard</itunes:author>
     <pubDate>Sun May 12 2024</pubDate>
