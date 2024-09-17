@@ -141,6 +141,9 @@
     <pubDate>Sunday July 07 2024</pubDate>
     <enclosure url="https://sanpedroapostolic.org/assets/audio/20240707-broblanchard.m4a" length="36214" type="audio/mpeg" />
 </item> 
+</channel>
+</rss>
+<!--ARCHIVE
 <item>
     <title>La Doctrina De Los Apóstoles Pastor Blanchard</title>
     <description>Iglesia Apostólica San Pedro</description>
@@ -197,11 +200,6 @@
     <pubDate>Thurs May 16 2024</pubDate>
     <enclosure url="https://sanpedroapostolic.org/assets/audio/20240516_broblanchard.mp3" length="36214" type="audio/mpeg" />
 </item> 
-</channel>
-</rss>
-
-
-<!--ARCHIVE Material
 <item>
     <title>Abraham "Le Amigo de Dios" - Pastor Blanchard</title>
     <description>Iglesia Apostólica San Pedro</description>
