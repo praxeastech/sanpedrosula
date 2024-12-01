@@ -19,15 +19,15 @@
     <title>La Diosa - Apoc. 5</title>
     <description>Iglesia Apostólica San Pedro</description>
     <itunes:author>Pastor Blanchard</itunes:author>
-    <pubDate>Sunday November 24 2024</pubDate>
-    <enclosure url="https://netorgft11121208-my.sharepoint.com/:v:/g/personal/broblanchard_sanpedroapostolic_org/EbnTXu8KTr5OjwjSgWcROk4B4dXkjRNH3CShYiATOHrwfA?e=QvA04P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" length="36214" type="audio/mpeg" />
+    <pubDate>Thursday November 28 2024</pubDate>
+    <enclosure url="https://netorgft11121208-my.sharepoint.com/:v:/g/personal/broblanchard_sanpedroapostolic_org/Ea6fIgtTb-9IgfnjxmysrCgBwHZ1c0NKjJy3NtZpTau5vg?e=bmj0Rz" length="36214" type="audio/mpeg" />
 </item>
 <item>
-    <title>La Diosa - Marcos 12:28</title>
+    <title>La Diosa</title>
     <description>Iglesia Apostólica San Pedro</description>
     <itunes:author>Pastor Blanchard</itunes:author>
-    <pubDate>Thursday November 21 2024</pubDate>
-    <enclosure url="https://netorgft11121208-my.sharepoint.com/:v:/g/personal/broblanchard_sanpedroapostolic_org/EVjclHNSs51PgVmbVZUSe8sBCC8UAIBX7uCFNdDwkgt6uQ?e=mWhwN3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" length="36214" type="audio/mpeg" />
+    <pubDate>Sunday November 24 2024</pubDate>
+    <enclosure url="https://netorgft11121208-my.sharepoint.com/:v:/g/personal/broblanchard_sanpedroapostolic_org/EbnTXu8KTr5OjwjSgWcROk4B4dXkjRNH3CShYiATOHrwfA?e=zTtyeS" length="36214" type="audio/mpeg" />
 </item>
 <item>
     <title>La Diosa - Deut 6:4</title>
@@ -127,6 +127,10 @@
     <pubDate>Thursday September 26 2024</pubDate>
     <enclosure url="https://netorgft11121208-my.sharepoint.com/:v:/g/personal/broblanchard_sanpedroapostolic_org/EakzNFbGKn5KoCYvBPWsZbwBI7JSUbLLf3eHxmDZOOX_Sg?e=HYercB" length="36214" type="audio/mpeg" />
 </item> 
+</channel>
+</rss>
+
+<!--
 <item>
     <title>Lucas 4 - Ungido</title>
     <description>Iglesia Apostólica San Pedro</description>
@@ -267,9 +271,6 @@
     <pubDate>Sunday July 07 2024</pubDate>
     <enclosure url="https://sanpedroapostolic.org/assets/audio/20240707-broblanchard.m4a" length="36214" type="audio/mpeg" />
 </item> 
-</channel>
-</rss>
-<!--ARCHIVE
 <item>
     <title>La Doctrina De Los Apóstoles Pastor Blanchard</title>
     <description>Iglesia Apostólica San Pedro</description>
