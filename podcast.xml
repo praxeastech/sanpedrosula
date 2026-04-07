@@ -16,12 +16,48 @@
 <language>en-us</language>
 <copyright>© 2026 All Rights Reserved</copyright>
 <item>
+    <title>Counted for the Seed (Truth Tabernacle Apostolic Church) In English</title>
+    <description>Missionary D. Blanchard</description>
+    <itunes:author></itunes:author>
+    <pubDate>Sunday April 5, 2025</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/04052026_TruthTabernacleApostolicChurch_Blanchard.m4a" length="912000" type="audio/mpeg" />
+</item>
+<item>
+    <title>The Election (Victory Apostolic Church) In English</title>
+    <description>Missionary D. Blanchard</description>
+    <itunes:author></itunes:author>
+    <pubDate>Sunday March 29 2026</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/03292026_VictoryApostolicChurch_Blanchard.m4a" length="912000" type="audio/mpeg" />
+</item>
+<item>
+    <title>Stranger in a strange land (Victory Apostolic Church) In English</title>
+    <description>Missionary D. Blanchard</description>
+    <itunes:author></itunes:author>
+    <pubDate>Sunday October 1 2025</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/10012025_VictoryApostolicChurch_Blanchard.m4a" length="912000" type="audio/mpeg" />
+</item>
+<item>
     <title>Primer servicio en edificio nuevo</title>
     <description>Missionary B. Schreckhise</description>
     <itunes:author>Missionary B. Schreckhise</itunes:author>
     <pubDate>Sunday February 15 2026</pubDate>
     <enclosure url="https://us06web.zoom.us/clips/share/gDXA-RCSSimlHQHT--93OQ" length="912000" type="audio/mpeg" />
 </item>
+<item>
+    <title>Primer servicio en edificio nuevo</title>
+    <description>Missionary B. Schreckhise</description>
+    <itunes:author>Missionary B. Schreckhise</itunes:author>
+    <pubDate>Sunday February 15 2026</pubDate>
+    <enclosure url="https://us06web.zoom.us/clips/share/gDXA-RCSSimlHQHT--93OQ" length="912000" type="audio/mpeg" />
+</item>
+<item>
+    <title>Primer servicio en edificio nuevo</title>
+    <description>Missionary B. Schreckhise</description>
+    <itunes:author>Missionary B. Schreckhise</itunes:author>
+    <pubDate>Sunday February 15 2026</pubDate>
+    <enclosure url="https://us06web.zoom.us/clips/share/gDXA-RCSSimlHQHT--93OQ" length="912000" type="audio/mpeg" />
+</item>
+<!--
 <item>
     <title>Vasijas de honor</title>
     <description>Missionary D Blanchard</description>
@@ -36,6 +72,7 @@
     <pubDate>Wednesday December 17 2025</pubDate>
     <enclosure url="https://sanpedroapostolic.org/assets/audio/Restoration_Blanchard_20251217.m4a" length="912000" type="audio/mpeg" />
 </item>
+-->
 <item>
     <title>God Given Shepherd (Tijuana, Mexico)</title>
     <description>Missionary D Blanchard</description>
@@ -50,6 +87,7 @@
     <pubDate>Wednesday November 19  2025</pubDate>
     <enclosure url="https://sanpedroapostolic.org/assets/audio/20251119_broblanchard_BurningBush.mp3" length="912000" type="audio/mpeg" />
 </item>
+<!--
 <item>
     <title>Domingo Tardes</title>
     <description>Missionary D Blanchard</description>
@@ -92,5 +130,6 @@
     <pubDate>Tuesday September 9 2025</pubDate>
     <enclosure url="https://us06web.zoom.us/clips/share/kfJBHl0wR9q5K6e2tErjrQ" length="912000" type="audio/mpeg" />
 </item>
+-->
 </channel>
 </rss>
