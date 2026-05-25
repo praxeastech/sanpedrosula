@@ -16,6 +16,13 @@
 <language>en-us</language>
 <copyright>© 2026 All Rights Reserved</copyright>
 <item>
+    <title>La imagen de Dios (Siguatepeque)</title>
+    <description>Missionary D. Blanchard</description>
+    <itunes:author>Missionary D. Blanchard</itunes:author>
+    <pubDate>Saturday May 23 2026</pubDate>
+    <enclosure url="https://sanpedroapostolic.org/assets/audio/LaImagenDeDios_Blanchard_20260523_Sigua.m4a" length="35059683 " type="audio/mpeg" />
+</item>
+<item>
     <title>El espiritu de Verdad y el espiritu de error</title>
     <description>Missionary D. Blanchard</description>
     <itunes:author>Missionary D. Blanchard</itunes:author>
@@ -50,79 +57,5 @@
     <pubDate>Sunday February 15 2026</pubDate>
     <enclosure url="https://us06web.zoom.us/clips/share/gDXA-RCSSimlHQHT--93OQ" length="912000" type="audio/mpeg" />
 </item>
-<!--
-<item>
-    <title>Vasijas de honor</title>
-    <description>Missionary D Blanchard</description>
-    <itunes:author>Missionary D Blanchard</itunes:author>
-    <pubDate>Sunday February 6 2026</pubDate>
-    <enclosure url="https://us06web.zoom.us/clips/share/hOP_x-h3SAWfXPA_esIGTA" length="912000" type="audio/mpeg" />
-</item>
-<item>
-    <title>Restoration</title>
-    <description>Missionary D Blanchard</description>
-    <itunes:author>Missionary D Blanchard</itunes:author>
-    <pubDate>Wednesday December 17 2025</pubDate>
-    <enclosure url="https://sanpedroapostolic.org/assets/audio/Restoration_Blanchard_20251217.m4a" length="912000" type="audio/mpeg" />
-</item>
--->
-<item>
-    <title>God Given Shepherd (Tijuana, Mexico)</title>
-    <description>Missionary D Blanchard</description>
-    <itunes:author>Missionary D Blanchard</itunes:author>
-    <pubDate>Sunday December 7  2025</pubDate>
-    <enclosure url="https://sanpedroapostolic.org/assets/audio/20251207_GodGivenShepherd-Espanol-Blanchard.mp3" length="912000" type="audio/mpeg" />
-</item>
-<item>
-    <title>The Burning Bush</title>
-    <description>Missionary D Blanchard</description>
-    <itunes:author>Missionary D Blanchard</itunes:author>
-    <pubDate>Wednesday November 19  2025</pubDate>
-    <enclosure url="https://sanpedroapostolic.org/assets/audio/20251119_broblanchard_BurningBush.mp3" length="912000" type="audio/mpeg" />
-</item>
-<!--
-<item>
-    <title>Domingo Tardes</title>
-    <description>Missionary D Blanchard</description>
-    <itunes:author>Missionary D Blanchard</itunes:author>
-    <pubDate>Sunday November 2  2025</pubDate>
-    <enclosure url="https://us06web.zoom.us/clips/share/2QWsZvQrRTG1y8czwhSuww" length="912000" type="audio/mpeg" />
-</item>
-<item>
-    <title>Jueves Tardes</title>
-    <description>Hermano Daniel Chevez</description>
-    <itunes:author>Missionary D Blanchard</itunes:author>
-    <pubDate>Thursday October 2  2025</pubDate>
-    <enclosure url="https://zoom.us/clips/share/g9L0alb-QNmiaKCHwR-tMA" length="912000" type="audio/mpeg" />
-</item>
-<item>
-    <title>Proverbios 8</title>
-    <description>Missionary David Blanchard</description>
-    <itunes:author>Missionary D Blanchard</itunes:author>
-    <pubDate>Thursday September 25  2025</pubDate>
-    <enclosure url="https://us06web.zoom.us/clips/share/rZ9jVhFdS5iDZXDF5RdKWg" length="912000" type="audio/mpeg" />
-</item>
-<item>
-    <title>Hechos 18 (Apolos)</title>
-    <description>Missionary David Blanchard</description>
-    <itunes:author>Missionary D Blanchard</itunes:author>
-    <pubDate>Thursday September 18  2025</pubDate>
-    <enclosure url="https://us06web.zoom.us/clips/share/EAF1g69aQb6iAxAzMtIQmA" length="912000" type="audio/mpeg" />
-</item>
-<item>
-    <title>Marcus 8</title>
-    <description>Missionary David Blanchard</description>
-    <itunes:author>Missionary D Blanchard</itunes:author>
-    <pubDate>Thursday September 11  2025</pubDate>
-    <enclosure url="https://us06web.zoom.us/clips/share/LjqNZLE6QB6n8v2ReH_qIg" length="912000" type="audio/mpeg" />
-</item>
-<item>
-    <title>Evangleist Lee Wilson</title>
-    <description>Evangelist Lee Wilson</description>
-    <itunes:author>Missionary D Blanchard</itunes:author>
-    <pubDate>Tuesday September 9 2025</pubDate>
-    <enclosure url="https://us06web.zoom.us/clips/share/kfJBHl0wR9q5K6e2tErjrQ" length="912000" type="audio/mpeg" />
-</item>
--->
 </channel>
 </rss>
