@@ -1,166 +1,169 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Misiones Apostólicas - Doctrina</title>
+  <title>Doctrina | Misiones Apostólicas</title>
 
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <meta name="description" content="Acceda a lecciones bíblicas y estudios doctrinales en español.">
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600|Poppins:400,600" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
+  <!-- Bootstrap -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-
-  <!-- Main CSS -->
   <link href="assets/css/style.css" rel="stylesheet">
+
+  <style>
+    .card-section {
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      padding: 20px;
+      margin-bottom: 20px;
+      background: #fff;
+    }
+
+    .lesson-link {
+      display: block;
+      padding: 12px;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: 0.2s;
+      color: #333;
+    }
+
+    .lesson-link:hover {
+      background: #f5f5f5;
+    }
+
+    .section-title {
+      font-weight: 600;
+      margin-bottom: 15px;
+    }
+  </style>
 </head>
 
 <body>
 
-<!-- ======= Header ======= -->
-<header id="header" class="fixed-top">
-  <div class="container d-flex align-items-center justify-content-between">
-    <h1 class="logo">
-      <a href="index.html">
-        <img src="assets/img/logo.jpg" alt="Misiones Apostólicas logo">
-        Misiones Apostólicas
-      </a>
-    </h1>
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
+      <h1 class="logo"><a href="index.html">
+        <img src="assets/img/logo.jpg" alt="logo">
+        Misiones Apostólicas</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
-    <nav id="navbar" class="navbar">
-      <ul>
-        <li><a href="index.html">Hogar</a></li>
-        <li><a href="our-story.html">Ministerio</a></li>
-        <li><a href="events.html">Calendario</a></li>
-        <li><a href="gallery.html">Galería</a></li>
-        <li><a class="active" href="doctrine.html">Doctrina</a></li>
-        <li><a href="podcast.html">Podcast</a></li>
-        <li><a href="contact.html">Contacta</a></li>
-      </ul>
-      <i class="bi bi-list mobile-nav-toggle"></i>
-    </nav>
-  </div>
-</header>
-<!-- End Header -->
-
-<main id="main">
-
-<!-- ======= Breadcrumbs ======= -->
-<section class="breadcrumbs">
-  <div class="container d-flex justify-content-between align-items-center">
-    <h1>Doctrinas Bíblicas</h1>
-    <ol>
-      <li><a href="index.html">Hogar</a></li>
-      <li>Doctrina</li>
-    </ol>
-  </div>
-</section>
-
-<!-- ======= Intro Section ======= -->
-<section class="story-intro">
-  <div class="container">
-    <div class="row">
-
-      <article class="col-lg-6">
-        <div class="text-center mb-4">
-          <img src="assets/img/fountain.gif" class="img-fluid" alt="Fuente de agua viva">
-          <h2 class="mt-3">Juan 7:38</h2>
-        </div>
-
-        <p class="fst-italic">
-          Aquí está nuestra colección de Doctrina Bíblica para la misión de San Pedro Sula.
-          Las hemos compuesto en español. Si desea leer estas y otras lecciones en inglés,
-          haga <a href="http://doctrine.praxeas.com" target="_blank" rel="noopener noreferrer">clic aquí</a>.
-        </p>
-
-        <p class="fst-italic">
-          Si tiene alguna pregunta o desea comunicarse con el hermano Blanchard,
-          por favor envíe un <a href="mailto:broblanchard@lafayetteac.org">correo electrónico</a>.
-          Dios te bendiga mientras estudias su Palabra.
-        </p>
-
-        <h2>Lecciones</h2>
-        <ul class="list-unstyled">
-          <li>📘 <a href="assets/docs/Lección 1 La Autoridad de la Palabra de Dios.pdf">Lección 1: La Autoridad de la Palabra de Dios</a></li>
-          <li>📘 <a href="assets/docs/Lesson2.pdf">Lección 2: La naturaleza de Dios</a></li>
-          <li>📘 <a href="assets/docs/Lesson3.pdf">Lección 3: La salvación</a></li>
-          <li>📘 <a href="assets/docs/Lesson4.pdf">Lección 4: Historia de la Iglesia</a></li>
-          <li>📘 <a href="assets/docs/Lesson5.pdf">Lección 5: La gran apostasía</a></li>
-          <li>📘 <a href="assets/docs/Lesson6.pdf">Lección 6: Discipulado</a></li>
-          <li>📘 <a href="assets/docs/Lesson7.pdf">Lección 7: Santidad y separación</a></li>
-          <li>📘 <a href="assets/docs/Lesson8.pdf">Lección 8: La Iglesia y el Ministerio</a></li>                    
-          <li>📘 <a href="assets/docs/Lesson9.pdf">Lección 9: Fin de los tiempos - Libro del Apocalipsis</a></li>            
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="index.html">Hogar</a></li>
+          <li><a href="our-story.html">Ministerio</a></li>
+          <li><a href="events.html">Calendario</a></li>
+          <li><a href="gallery.html">Galería</a></li>
+          <li><a class="active" href="doctrine.html">Doctrina</a></li>
+          <li><a href="podcast.html">Podcast</a></li>             
+          <li><a href="donations.html">Donar</a></li>
         </ul>
-      </article>
-
-      <!-- ======= Sessions ======= -->
-      <article class="col-lg-6">
-        <h2>Sesiones – San Pedro Sula</h2>
-
-        <section class="mb-4">
-          <h3>La Fe de Abraham (Abr–May 2024)</h3>
-          <ul>
-            <li><a href="assets/docs/LaFeDeAbraham.pdf">Documento PDF</a></li>
-            <li><a href="assets/audio/20240505_broblanchard.mp3" target="_blank">Audio – Domingo 5/05/24</a></li>
-            <li><a href="assets/audio/20240502_broblanchard.mp3" target="_blank">Audio – Jueves 2/05/24</a></li>
-          </ul>
-        </section>
-
-        <section class="mb-4">
-          <h3>Booz – Liderazgo de servicio (Abril 2024)</h3>
-          <ul>
-            <li><a href="assets/docs/Boaz.pdf">Documento PDF</a></li>
-            <li><a href="assets/audio/20240414_broblanchard.mp3" target="_blank">Audio – Domingo 14/04/24</a></li>
-            <li><a href="assets/audio/20240407_broblanchard.mp3" target="_blank">Audio – Domingo 7/04/24</a></li>
-          </ul>
-        </section>
-
-        <section class="mb-4">
-          <h3>¿Qué es la Verdad? (Abril 2024)</h3>
-          <ul>
-            <li><a href="assets/docs/Verdad.pdf">Documento PDF</a></li>
-            <li><a href="assets/audio/20240407_broblanchard.mp3" target="_blank">Audio – Domingo</a></li>
-            <li><a href="assets/audio/20240404_broblanchard.mp3" target="_blank">Audio – Jueves</a></li>
-          </ul>
-        </section>
-
-      </article>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
 
     </div>
-  </div>
-</section>
+  </header><!-- End Header -->
 
+<main class="container" style="margin-top:80px">
+
+  <!-- TITLE -->
+  <div class="text-center mb-4">
+    <h2>📖 Doctrinas Bíblicas</h2>
+    <p class="text-muted">Lecciones y estudios fundamentales de la Palabra de Dios</p>
+  </div>
+
+  <!-- INTRO + VERSE -->
+  <div class="card-section text-center">
+    <img src="assets/img/fountain.gif" class="img-fluid mb-3" alt="Fuente de agua viva">
+    <h5>Juan 7:38</h5>
+    <p class="fst-italic">
+      “El que cree en mí, como dice la Escritura, de su interior correrán ríos de agua viva.”
+    </p>
+  </div>
+
+  <!-- LESSONS FULL WIDTH -->
+  <div class="card-section">
+    <h5 class="section-title">📘 Lecciones</h5>
+
+    <a href="assets/docs/Lección 1 La Autoridad de la Palabra de Dios.pdf" class="lesson-link">
+      📘 Lección 1: Autoridad de la Palabra de Dios
+    </a>
+
+    <a href="assets/docs/Lesson2.pdf" class="lesson-link">
+      📘 Lección 2: Naturaleza de Dios
+    </a>
+
+    <a href="assets/docs/Lesson3.pdf" class="lesson-link">
+      📘 Lección 3: Salvación
+    </a>
+
+    <a href="assets/docs/Lesson4.pdf" class="lesson-link">
+      📘 Lección 4: Historia de la Iglesia
+    </a>
+
+    <a href="assets/docs/Lesson5.pdf" class="lesson-link">
+      📘 Lección 5: Gran apostasía
+    </a>
+
+    <a href="assets/docs/Lesson6.pdf" class="lesson-link">
+      📘 Lección 6: Discipulado
+    </a>
+
+    <a href="assets/docs/Lesson7.pdf" class="lesson-link">
+      📘 Lección 7: Santidad
+    </a>
+
+    <a href="assets/docs/Lesson8.pdf" class="lesson-link">
+      📘 Lección 8: Iglesia y Ministerio
+    </a>
+
+    <a href="assets/docs/Lesson9.pdf" class="lesson-link">
+      📘 Lección 9: Fin de los tiempos (Apocalipsis)
+    </a>
+
+  </div>
+  <!-- DESCRIPTION -->
+  <div class="card-section text-center">
+    <p>
+      Aquí encontrará nuestra colección de doctrina bíblica en español.
+      También puede acceder a más materiales en inglés:
+    </p>
+
+    <a href="http://doctrine.praxeas.com" target="_blank" rel="noopener noreferrer"
+       class="btn btn-outline-primary btn-sm">
+      Ver recursos en inglés
+    </a>
+
+    <p class="small mt-3">
+      ¿Tiene preguntas? 
+      <a href="mailto:broblanchard@lafayetteac.org">Envíenos un correo</a>.
+    </p>
+  </div>
 </main>
 
-<!-- ======= Footer ======= -->
-<footer id="footer">
-  <div class="container text-center">
-    <img src="assets/img/logo.jpg" alt="Misiones Apostólicas logo" width="120" height="160">
-    <h3>Misiones Apostólicas de San Pedro Sula, Honduras</h3>
+<!-- FOOTER -->
+<footer class="text-center mt-5 p-4 bg-light">
+  <img src="assets/img/logo.jpg" alt="logo" width="100">
 
-    <div class="copyright">
-      © <script>document.write(new Date().getFullYear());</script>
-      <strong>Misiones Apostólicas de San Pedro Sula, Honduras</strong>
-    </div>
+  <p class="mt-2 mb-0">
+    Misiones Apostólicas de San Pedro Sula, Honduras
+  </p>
 
-    <div class="privacidad">
-      <a href="privacy.html">Bienvenido a nuestro servicio de mensajes de texto</a>
-    </div>
-  </div>
+  <small>
+    &copy; <script>document.write(new Date().getFullYear());</script>
+    Todos los derechos reservados
+  </small>
+  <br>
+
+  <a href="privacy.html">Política de privacidad</a>
 </footer>
 
-<a href="#" class="back-to-top d-flex align-items-center justify-content-center">
-  <i class="bi bi-arrow-up-short"></i>
-</a>
-
-<!-- Vendor JS -->
 <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="assets/js/main.js"></script>
 
 </body>
 </html>
